@@ -1,11 +1,3 @@
-/* en task.json se deben agregar todos los .cpp despues de main.cpp, quedando entre el main.cpp
- y -0, ejemplo
- -g
- main.cpp
- archivo1.cpp
- archivo2.cpp
--0 */
-
 #include <iostream>    // PAra entrada/salida estandar
 #include <string>      // Para manipular cadenas de texto
 #include <vector>      // Para usar el contenedor/lista Vector
